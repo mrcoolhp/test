@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.mrcoolhp.test.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.mrcoolhp.test.MyBundle
 
 class MyApplicationService {
 
